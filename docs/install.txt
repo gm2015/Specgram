@@ -1,0 +1,4 @@
+Torchaudio
+    pip install torchaudio
+SoundFile for Windows:
+    pip install soundfile
